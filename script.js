@@ -15,6 +15,7 @@ form.addEventListener('submit', function (e) {
     let estado = document.getElementById('estado').value;
     let cidade = document.getElementById('cidade').value;
 
+    //Validações
     
    if (nome === '') {
         alert('Por favor, preencha o campo nome.');
