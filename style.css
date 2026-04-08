@@ -6,8 +6,7 @@
 }
 
 body {
-    background-image: url(assets/transferir.png);
-    background: linear-gradient(135deg, #990b0b, #e0a4a4);
+    background-image: url(assets/sanguinho.jpg);
     height: 100vh;
     display: flex;
     justify-content: center;
